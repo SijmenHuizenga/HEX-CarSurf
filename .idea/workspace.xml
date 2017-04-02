@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab6280fa-4551-4cd0-a9ba-25851425c48a" name="Default" comment="" />
+    <list default="true" id="ab6280fa-4551-4cd0-a9ba-25851425c48a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/driver.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/travler_waiting.html" afterPath="$PROJECT_DIR$/travler_waiting.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Carsurf Web.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,12 +28,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="travler.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="travler.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travler.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1206896">
-              <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+            <state vertical-scroll-proportion="-5.147059">
+              <caret line="37" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="driver.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/driver.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2902098">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,8 +53,8 @@
       <file leaf-file-name="travler_waiting.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travler_waiting.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.846153">
-              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state vertical-scroll-proportion="-15.263158">
+              <caret line="32" column="13" selection-start-line="25" selection-start-column="4" selection-end-line="32" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -54,13 +72,17 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/travler_done.html" />
-        <option value="$PROJECT_DIR$/travler_waiting.html" />
         <option value="$PROJECT_DIR$/travler.html" />
+        <option value="$PROJECT_DIR$/travler_waiting.html" />
+        <option value="$PROJECT_DIR$/driver.html" />
       </list>
     </option>
   </component>
@@ -78,7 +100,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -128,6 +150,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="recentsLimit" value="5" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.travler.html">
     <configuration default="false" name="travler.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Carsurf Web/travler.html">
@@ -213,19 +236,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travler_waiting.html">
+    <entry file="file://$PROJECT_DIR$/travler.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.846153">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state vertical-scroll-proportion="-5.147059">
+          <caret line="37" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travler.html">
+    <entry file="file://$PROJECT_DIR$/travler_waiting.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1206896">
-          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        <state vertical-scroll-proportion="-15.263158">
+          <caret line="32" column="13" selection-start-line="25" selection-start-column="4" selection-end-line="32" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2902098">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
